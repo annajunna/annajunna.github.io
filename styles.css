@@ -21,7 +21,7 @@ h1
   }
 
 @media only screen and (max-width: 800px){
-  .img-fluid {
+  .rounded-circle {
       width: fit-content;
       height: fit-content;
   }
