@@ -19,4 +19,9 @@ h1
 	font-weight: bold;
 	display: block;
   }
-  
+
+@media only screen and (max-width: 800px){
+  .img-fluid {
+      width: fit-content;
+      height: fit-content;
+  }
